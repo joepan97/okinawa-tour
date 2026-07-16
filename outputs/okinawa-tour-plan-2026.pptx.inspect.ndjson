@@ -1,0 +1,408 @@
+{"kind":"deck","id":"pr/gal2h1","name":"Deck"}
+{"kind":"layout","layoutId":"031727a5-8093-4793-a7e6-4ace9ee96181","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"624c98a1-4009-4ebe-9470-8e3541c4a3ff","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/g87wvm","slide":1,"title":"沖繩 4 天 3 夜","textShapes":7}
+{"kind":"shape","id":"sh/psfuhsba","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/or6donup","slide":1,"text":"沖繩 4 天 3 夜\n家族自駕行程簡報","textPreview":"沖繩 4 天 3 夜 | 家族自駕行程簡報","textChars":19,"textLines":2,"bbox":[64,102,710,160]}
+{"kind":"textbox","id":"sh/f2dcbit8","slide":1,"text":"7/17 10:00 抵達 · 7/20 11:55 離境\n16 人｜13 位大人、3 位小孩｜諾富特沖繩那霸｜3 台車","textPreview":"7/17 10:00 抵達 · 7/20 11:55 離境 | 16 人｜13 位大人、3 位小孩｜諾富特沖繩那霸｜3 台車","textChars":60,"textLines":2,"bbox":[66,292,720,84]}
+{"kind":"textbox","id":"sh/e14bidcn","slide":1,"text":"導遊版","textPreview":"導遊版","textChars":3,"textLines":1,"bbox":[66,410,116,34]}
+{"kind":"textbox","id":"sh/1ovudsby","slide":1,"text":"避開連假車潮","textPreview":"避開連假車潮","textChars":6,"textLines":1,"bbox":[198,410,156,34]}
+{"kind":"textbox","id":"sh/0nmtknud","slide":1,"text":"景點取捨清楚","textPreview":"景點取捨清楚","textChars":6,"textLines":1,"bbox":[370,410,156,34]}
+{"kind":"textbox","id":"sh/zyhcnmtc","slide":1,"text":"核心建議：北部日早出發，南部日二選一控制購物點，離境日不排景點。","textPreview":"核心建議：北部日早出發，南部日二選一控制購物點，離境日不排景點。","textChars":32,"textLines":1,"bbox":[66,604,900,32]}
+{"kind":"textbox","id":"sh/yxovuhsr","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/j21wb6tw","slide":1,"name":"","alt":"美麗海水族館黑潮之海實景","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/g87wvm","slide":1,"text":"開場先說明：這份不是把景點全部塞滿，而是讓 16 人三台車能準時、少等、少繞路地完成行程。"}
+{"kind":"slide","id":"sl/bat84i","slide":2,"title":"沖繩 2026 家族自駕行程","textShapes":11}
+{"kind":"textbox","id":"sh/cjid4fex","slide":2,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/bi9cvadc","slide":2,"text":"整體判斷：景點都可去，但不能平均分配時間","textPreview":"整體判斷：景點都可去，但不能平均分配時間","textChars":20,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/qhgv25w7","slide":2,"bbox":[48,136,1184,0]}
+{"kind":"shape","id":"sh/pg7utkvm","slide":2,"bbox":[64,178,280,72]}
+{"kind":"textbox","id":"sh/ofyt0fe1","slide":2,"text":"最值得保留","textPreview":"最值得保留","textChars":5,"textLines":1,"bbox":[86,198,230,28]}
+{"kind":"textbox","id":"sh/3epcradg","slide":2,"text":"美麗海、古宇利大橋、國際通/牧志、美國村、瀨長島","textPreview":"美麗海、古宇利大橋、國際通/牧志、美國村、瀨長島","textChars":24,"textLines":1,"bbox":[380,188,760,52]}
+{"kind":"shape","id":"sh/2dgby5wv","slide":2,"bbox":[64,283,280,72]}
+{"kind":"textbox","id":"sh/1c7up0va","slide":2,"text":"可去但限時","textPreview":"可去但限時","textChars":5,"textLines":1,"bbox":[86,303,230,28]}
+{"kind":"textbox","id":"sh/gbytwvep","slide":2,"text":"Costco、AEON Rycom、DMM 水族館、系滿魚市場","textPreview":"Costco、AEON Rycom、DMM 水族館、系滿魚市場","textChars":31,"textLines":1,"bbox":[380,293,760,52]}
+{"kind":"shape","id":"sh/2psfm58v","slide":2,"bbox":[64,388,280,72]}
+{"kind":"textbox","id":"sh/3q1wfapg","slide":2,"text":"不建議硬塞","textPreview":"不建議硬塞","textChars":5,"textLines":1,"bbox":[86,408,230,28]}
+{"kind":"textbox","id":"sh/4ruxof61","slide":2,"text":"離境日景點、古宇利蝦蝦飯當 16 人正式午餐、DMM + AEON 長時間同排","textPreview":"離境日景點、古宇利蝦蝦飯當 16 人正式午餐、DMM + AEON 長時間同排","textChars":39,"textLines":1,"bbox":[380,398,760,52]}
+{"kind":"shape","id":"sh/ps3ehk7m","slide":2,"bbox":[64,493,280,72]}
+{"kind":"textbox","id":"sh/ulsfi58z","slide":2,"text":"關鍵風險","textPreview":"關鍵風險","textChars":4,"textLines":1,"bbox":[86,513,230,28]}
+{"kind":"textbox","id":"sh/fm1wbapk","slide":2,"text":"7/18-7/20 週末與日本海之日連假；集合、停車、廁所會吃掉大量時間","textPreview":"7/18-7/20 週末與日本海之日連假；集合、停車、廁所會吃掉大量時間","textChars":36,"textLines":1,"bbox":[380,503,760,52]}
+{"kind":"textbox","id":"sh/gnaxkvq5","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/bat84i","slide":2,"text":"這張用來取得大家共識：不是刪掉景點，而是把每個點放在它最適合的角色。"}
+{"kind":"slide","id":"sl/skjdbs","slide":3,"title":"沖繩 2026 家族自駕行程","textShapes":24}
+{"kind":"textbox","id":"sh/zipc7210","slide":3,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/0jyd072l","slide":3,"text":"用三個區域排路線，三台車才不會反覆折返","textPreview":"用三個區域排路線，三台車才不會反覆折返","textChars":19,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/1k7u9cj6","slide":3,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/ml0v2hkr","slide":3,"text":"區域","textPreview":"區域","textChars":2,"textLines":1,"bbox":[68,178,160,62]}
+{"kind":"textbox","id":"sh/nm9cbm1c","slide":3,"text":"安排日期","textPreview":"安排日期","textChars":4,"textLines":1,"bbox":[228,178,145,62]}
+{"kind":"textbox","id":"sh/onid4r2x","slide":3,"text":"主題","textPreview":"主題","textChars":2,"textLines":1,"bbox":[373,178,310,62]}
+{"kind":"textbox","id":"sh/9orudwji","slide":3,"text":"導遊判斷","textPreview":"導遊判斷","textChars":4,"textLines":1,"bbox":[683,178,520,62]}
+{"kind":"textbox","id":"sh/2pwbqdkn","slide":3,"text":"那霸市區","textPreview":"那霸市區","textChars":4,"textLines":1,"bbox":[68,240,160,62]}
+{"kind":"textbox","id":"sh/3q5czi18","slide":3,"text":"7/17 五","textPreview":"7/17 五","textChars":6,"textLines":1,"bbox":[228,240,145,62]}
+{"kind":"textbox","id":"sh/r2psf2ts","slide":3,"text":"抵達、國際通、牧志市場","textPreview":"抵達、國際通、牧志市場","textChars":11,"textLines":1,"bbox":[373,240,310,62]}
+{"kind":"textbox","id":"sh/q1gb6xsn","slide":3,"text":"不再開遠路；晚間建議計程車進國際通","textPreview":"不再開遠路；晚間建議計程車進國際通","textChars":17,"textLines":1,"bbox":[683,240,520,62]}
+{"kind":"textbox","id":"sh/d47ahcby","slide":3,"text":"北部","textPreview":"北部","textChars":2,"textLines":1,"bbox":[68,302,160,62]}
+{"kind":"textbox","id":"sh/s3yt87ad","slide":3,"text":"7/18 六","textPreview":"7/18 六","textChars":6,"textLines":1,"bbox":[228,302,145,62]}
+{"kind":"textbox","id":"sh/3y5sb2tw","slide":3,"text":"美麗海、備瀨、古宇利","textPreview":"美麗海、備瀨、古宇利","textChars":10,"textLines":1,"bbox":[373,302,310,62]}
+{"kind":"textbox","id":"sh/idwb2xsb","slide":3,"text":"最早出發；回程晚餐不要再排遠","textPreview":"最早出發；回程晚餐不要再排遠","textChars":14,"textLines":1,"bbox":[683,302,520,62]}
+{"kind":"textbox","id":"sh/50nadcb2","slide":3,"text":"南部/中部","textPreview":"南部/中部","textChars":5,"textLines":1,"bbox":[68,364,160,62]}
+{"kind":"textbox","id":"sh/4zet47ah","slide":3,"text":"7/19 日","textPreview":"7/19 日","textChars":6,"textLines":1,"bbox":[228,364,145,62]}
+{"kind":"textbox","id":"sh/va5s7it0","slide":3,"text":"Costco、系滿、DMM/瀨長島、AEON/美國村","textPreview":"Costco、系滿、DMM/瀨長島、AEON/美國村","textChars":26,"textLines":1,"bbox":[373,364,310,62]}
+{"kind":"textbox","id":"sh/u9crydcf","slide":3,"text":"購物點要限時；DMM 和 AEON 擇一最好","textPreview":"購物點要限時；DMM 和 AEON 擇一最好","textChars":22,"textLines":1,"bbox":[683,364,520,62]}
+{"kind":"textbox","id":"sh/y5cbqdw7","slide":3,"text":"機場","textPreview":"機場","textChars":2,"textLines":1,"bbox":[68,426,160,62]}
+{"kind":"textbox","id":"sh/j6lcjids","slide":3,"text":"7/20 一","textPreview":"7/20 一","textChars":6,"textLines":1,"bbox":[228,426,145,62]}
+{"kind":"textbox","id":"sh/k7utsned","slide":3,"text":"加油、還車、出境","textPreview":"加油、還車、出境","textChars":8,"textLines":1,"bbox":[373,426,310,62]}
+{"kind":"textbox","id":"sh/l83ulsvi","slide":3,"text":"不排景點；08:00 前離開飯店","textPreview":"不排景點；08:00 前離開飯店","textChars":16,"textLines":1,"bbox":[683,426,520,62]}
+{"kind":"textbox","id":"sh/69cbuxw3","slide":3,"text":"住宿基準點：諾富特沖繩那霸位於首里/松川一帶，去北部可接那霸 IC，去國際通則不適合三台車找停車位。","textPreview":"住宿基準點：諾富特沖繩那霸位於首里/松川一帶，去北部可接那霸 IC，去國際通則不適合三台車找停車位。","textChars":50,"textLines":1,"bbox":[78,542,1040,62]}
+{"kind":"textbox","id":"sh/7a5cn2do","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/skjdbs","slide":3,"text":""}
+{"kind":"slide","id":"sl/lhl9u7","slide":4,"title":"沖繩 2026 家族自駕行程","textShapes":21}
+{"kind":"textbox","id":"sh/n2dcbidg","slide":4,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/o3mt4ne1","slide":4,"text":"Day 1｜抵達後只做那霸市區，讓大家先站穩","textPreview":"Day 1｜抵達後只做那霸市區，讓大家先站穩","textChars":22,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/p4vudsvm","slide":4,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/bqxcf2ds","slide":4,"text":"時間","textPreview":"時間","textChars":2,"textLines":1,"bbox":[64,158,112,70]}
+{"kind":"textbox","id":"sh/cr6t87ed","slide":4,"text":"安排","textPreview":"安排","textChars":2,"textLines":1,"bbox":[176,158,284,70]}
+{"kind":"textbox","id":"sh/xsfuhcvi","slide":4,"text":"導遊提醒","textPreview":"導遊提醒","textChars":4,"textLines":1,"bbox":[460,158,272,70]}
+{"kind":"textbox","id":"sh/ytovaxw3","slide":4,"text":"10:00","textPreview":"10:00","textChars":5,"textLines":1,"bbox":[64,228,112,70]}
+{"kind":"textbox","id":"sh/zuxcj2do","slide":4,"text":"抵達那霸機場","textPreview":"抵達那霸機場","textChars":6,"textLines":1,"bbox":[176,228,284,70]}
+{"kind":"textbox","id":"sh/76pszm5o","slide":4,"text":"16 人入境、行李、租車抓 2 小時較穩","textPreview":"16 人入境、行李、租車抓 2 小時較穩","textChars":20,"textLines":1,"bbox":[460,228,272,70]}
+{"kind":"textbox","id":"sh/m5gb6h43","slide":4,"text":"12:30","textPreview":"12:30","textChars":5,"textLines":1,"bbox":[64,298,112,70]}
+{"kind":"textbox","id":"sh/98ru1cne","slide":4,"text":"燒肉本舖已訂位","textPreview":"燒肉本舖已訂位","textChars":7,"textLines":1,"bbox":[176,298,284,70]}
+{"kind":"textbox","id":"sh/87it87mt","slide":4,"text":"時間偏緊，建議請餐廳保留到 13:00","textPreview":"時間偏緊，建議請餐廳保留到 13:00","textChars":19,"textLines":1,"bbox":[460,298,272,70]}
+{"kind":"textbox","id":"sh/z2psv25c","slide":4,"text":"14:30","textPreview":"14:30","textChars":5,"textLines":1,"bbox":[64,368,112,70]}
+{"kind":"textbox","id":"sh/y1gb2x4r","slide":4,"text":"諾富特寄行李 / check-in","textPreview":"諾富特寄行李 / check-in","textChars":17,"textLines":1,"bbox":[176,368,284,70]}
+{"kind":"textbox","id":"sh/l47axcni","slide":4,"text":"分車固定乘客、建立 LINE 集合群","textPreview":"分車固定乘客、建立 LINE 集合群","textChars":18,"textLines":1,"bbox":[460,368,272,70]}
+{"kind":"textbox","id":"sh/k3yt47mx","slide":4,"text":"16:30","textPreview":"16:30","textChars":5,"textLines":1,"bbox":[64,438,112,70]}
+{"kind":"textbox","id":"sh/jy9c76lg","slide":4,"text":"國際通 + 第一牧志市場","textPreview":"國際通 + 第一牧志市場","textChars":12,"textLines":1,"bbox":[176,438,284,70]}
+{"kind":"textbox","id":"sh/ix0be14b","slide":4,"text":"建議計程車往返，不開三台車進市區","textPreview":"建議計程車往返，不開三台車進市區","textChars":16,"textLines":1,"bbox":[460,438,272,70]}
+{"kind":"textbox","id":"sh/et4v65oj","slide":4,"text":"18:30","textPreview":"18:30","textChars":5,"textLines":1,"bbox":[64,508,112,70]}
+{"kind":"textbox","id":"sh/fudwzapo","slide":4,"text":"國際通晚餐 / 伴手禮","textPreview":"國際通晚餐 / 伴手禮","textChars":11,"textLines":1,"bbox":[176,508,284,70]}
+{"kind":"textbox","id":"sh/gvmd8v69","slide":4,"text":"第一晚不要再排瀨長島，保留體力","textPreview":"第一晚不要再排瀨長島，保留體力","textChars":15,"textLines":1,"bbox":[460,508,272,70]}
+{"kind":"textbox","id":"sh/1wve10nu","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/76dcbql0","slide":4,"name":"","alt":"國際通夜間實景","bbox":[748,150,454,500]}
+{"kind":"notes","id":"nt/lhl9u7","slide":4,"text":""}
+{"kind":"slide","id":"sl/lc3ve8","slide":5,"title":"沖繩 2026 家族自駕行程","textShapes":12}
+{"kind":"textbox","id":"sh/hgju5wbm","slide":5,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/udsbahcb","slide":5,"text":"國際通與牧志市場適合第一晚，但要用步行節奏","textPreview":"國際通與牧志市場適合第一晚，但要用步行節奏","textChars":21,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/ve1s3mtg","slide":5,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/tcja1cbq","slide":5,"text":"適合","textPreview":"適合","textChars":2,"textLines":1,"bbox":[612,174,128,28]}
+{"kind":"textbox","id":"sh/6psb6xcz","slide":5,"text":"• 抵達日輕鬆逛，老人小孩可隨時回飯店","textPreview":"• 抵達日輕鬆逛，老人小孩可隨時回飯店","textChars":19,"textLines":1,"bbox":[612,216,560,42]}
+{"kind":"textbox","id":"sh/7a1sz2tk","slide":5,"text":"• 市場可看海鮮、沖繩食材，國際通可補藥妝伴手禮","textPreview":"• 市場可看海鮮、沖繩食材，國際通可補藥妝伴手禮","textChars":24,"textLines":1,"bbox":[612,254,560,42]}
+{"kind":"textbox","id":"sh/s7utkbu9","slide":5,"text":"• 雨天也能維持行程，不會影響後續北部日","textPreview":"• 雨天也能維持行程，不會影響後續北部日","textChars":20,"textLines":1,"bbox":[612,292,560,42]}
+{"kind":"textbox","id":"sh/d8nudgbu","slide":5,"text":"不適合","textPreview":"不適合","textChars":3,"textLines":1,"bbox":[612,380,128,28]}
+{"kind":"textbox","id":"sh/hofmh8j6","slide":5,"text":"• 三台車一起找停車位","textPreview":"• 三台車一起找停車位","textChars":11,"textLines":1,"bbox":[612,422,560,42]}
+{"kind":"textbox","id":"sh/gn6l832l","slide":5,"text":"• 把牧志市場當正式 16 人海鮮大餐","textPreview":"• 把牧志市場當正式 16 人海鮮大餐","textChars":19,"textLines":1,"bbox":[612,460,560,42]}
+{"kind":"textbox","id":"sh/f2d4fy10","slide":5,"text":"• 逛到太晚，隔天北部日會很痛苦","textPreview":"• 逛到太晚，隔天北部日會很痛苦","textChars":16,"textLines":1,"bbox":[612,498,560,42]}
+{"kind":"textbox","id":"sh/u1436tkf","slide":5,"text":"集合點建議：國際通入口、牧志市場門口、或指定便利商店；不要用「看到某某店集合」。","textPreview":"集合點建議：國際通入口、牧志市場門口、或指定便利商店；不要用「看到某某店集合」。","textChars":40,"textLines":1,"bbox":[72,590,1080,44]}
+{"kind":"textbox","id":"sh/t0v2doju","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/d0n6hcb6","slide":5,"name":"","alt":"第一牧志公設市場海鮮攤實景","bbox":[64,164,500,390]}
+{"kind":"notes","id":"nt/lc3ve8","slide":5,"text":""}
+{"kind":"slide","id":"sl/o5gxx2","slide":6,"title":"沖繩 2026 家族自駕行程","textShapes":24}
+{"kind":"textbox","id":"sh/hs3ypkbq","slide":6,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/u5cfu5cf","slide":6,"text":"Day 2｜北部是整趟精華，早出發比晚回來重要","textPreview":"Day 2｜北部是整趟精華，早出發比晚回來重要","textChars":23,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/fqlgnat0","slide":6,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/pwnyt4b2","slide":6,"text":"時間","textPreview":"時間","textChars":2,"textLines":1,"bbox":[64,154,112,62]}
+{"kind":"textbox","id":"sh/2tcfypcb","slide":6,"text":"安排","textPreview":"安排","textChars":2,"textLines":1,"bbox":[176,154,284,62]}
+{"kind":"textbox","id":"sh/3ulgrutw","slide":6,"text":"導遊提醒","textPreview":"導遊提醒","textChars":4,"textLines":1,"bbox":[460,154,272,62]}
+{"kind":"textbox","id":"sh/kzaxovud","slide":6,"text":"07:00","textPreview":"07:00","textChars":5,"textLines":1,"bbox":[64,216,112,62]}
+{"kind":"textbox","id":"sh/50jeh0bi","slide":6,"text":"諾富特出發","textPreview":"諾富特出發","textChars":5,"textLines":1,"bbox":[176,216,284,62]}
+{"kind":"textbox","id":"sh/5onu50ny","slide":6,"text":"走那霸 IC；早餐前一晚先買好","textPreview":"走那霸 IC；早餐前一晚先買好","textChars":15,"textLines":1,"bbox":[460,216,272,62]}
+{"kind":"textbox","id":"sh/4netcvmd","slide":6,"text":"09:30","textPreview":"09:30","textChars":5,"textLines":1,"bbox":[64,278,112,62]}
+{"kind":"textbox","id":"sh/jmlc3q5s","slide":6,"text":"美麗海水族館","textPreview":"美麗海水族館","textChars":6,"textLines":1,"bbox":[176,278,284,62]}
+{"kind":"textbox","id":"sh/ilcbal47","slide":6,"text":"先看黑潮之海，再看戶外海豚/海龜","textPreview":"先看黑潮之海，再看戶外海豚/海龜","textChars":16,"textLines":1,"bbox":[460,278,272,62]}
+{"kind":"textbox","id":"sh/tcnu90nu","slide":6,"text":"12:00","textPreview":"12:00","textChars":5,"textLines":1,"bbox":[64,340,112,62]}
+{"kind":"textbox","id":"sh/sbedgvm9","slide":6,"text":"海洋博公園周邊午餐","textPreview":"海洋博公園周邊午餐","textChars":9,"textLines":1,"bbox":[176,340,284,62]}
+{"kind":"textbox","id":"sh/ra5c7q54","slide":6,"text":"以簡單、快、可分桌為原則","textPreview":"以簡單、快、可分桌為原則","textChars":12,"textLines":1,"bbox":[460,340,272,62]}
+{"kind":"textbox","id":"sh/6pwve54j","slide":6,"text":"13:15","textPreview":"13:15","textChars":5,"textLines":1,"bbox":[64,402,112,62]}
+{"kind":"textbox","id":"sh/1g7udkn6","slide":6,"text":"備瀨福木林道","textPreview":"備瀨福木林道","textChars":6,"textLines":1,"bbox":[176,402,284,62]}
+{"kind":"textbox","id":"sh/gfydkfml","slide":6,"text":"水族館旁低強度拍照點，可視體力增減","textPreview":"水族館旁低強度拍照點，可視體力增減","textChars":17,"textLines":1,"bbox":[460,402,272,62]}
+{"kind":"textbox","id":"sh/0v65wnyt","slide":6,"text":"14:45","textPreview":"14:45","textChars":5,"textLines":1,"bbox":[64,464,112,62]}
+{"kind":"textbox","id":"sh/lwz65sfe","slide":6,"text":"古宇利大橋 / 古宇利島","textPreview":"古宇利大橋 / 古宇利島","textChars":12,"textLines":1,"bbox":[176,464,284,62]}
+{"kind":"textbox","id":"sh/ytonudg3","slide":6,"text":"拍照 + 蝦蝦飯當小吃，不當團體午餐","textPreview":"拍照 + 蝦蝦飯當小吃，不當團體午餐","textChars":18,"textLines":1,"bbox":[460,464,272,62]}
+{"kind":"textbox","id":"sh/zuxo3ih8","slide":6,"text":"16:30","textPreview":"16:30","textChars":5,"textLines":1,"bbox":[64,526,112,62]}
+{"kind":"textbox","id":"sh/8zq50ny5","slide":6,"text":"回那霸","textPreview":"回那霸","textChars":3,"textLines":1,"bbox":[176,526,284,62]}
+{"kind":"textbox","id":"sh/90z69sfq","slide":6,"text":"晚餐安排飯店附近或那霸市區","textPreview":"晚餐安排飯店附近或那霸市區","textChars":13,"textLines":1,"bbox":[460,526,272,62]}
+{"kind":"textbox","id":"sh/mx8nydgz","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/5kju5ona","slide":6,"name":"","alt":"古宇利大橋實景","bbox":[748,150,454,500]}
+{"kind":"notes","id":"nt/o5gxx2","slide":6,"text":""}
+{"kind":"slide","id":"sl/g4soly","slide":7,"title":"沖繩 2026 家族自駕行程","textShapes":12}
+{"kind":"textbox","id":"sh/sbqho7ed","slide":7,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/rah0v2xs","slide":7,"text":"美麗海水族館是必排點，停留 2.5 小時最剛好","textPreview":"美麗海水族館是必排點，停留 2.5 小時最剛好","textChars":23,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/q98zmxwn","slide":7,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/0zqhs7ep","slide":7,"text":"為什麼適合","textPreview":"為什麼適合","textChars":5,"textLines":1,"bbox":[670,166,220,30]}
+{"kind":"textbox","id":"sh/feh0zmx4","slide":7,"text":"• 沖繩最有代表性的親子景點，長輩、小孩、第一次來都容易接受","textPreview":"• 沖繩最有代表性的親子景點，長輩、小孩、第一次來都容易接受","textChars":30,"textLines":1,"bbox":[670,212,520,46]}
+{"kind":"textbox","id":"sh/ed8zqhwj","slide":7,"text":"• 旺季營業延長，但連假停車與館內人潮仍要早到","textPreview":"• 旺季營業延長，但連假停車與館內人潮仍要早到","textChars":23,"textLines":1,"bbox":[670,254,520,46]}
+{"kind":"textbox","id":"sh/94ji5wf6","slide":7,"text":"• 室內冷氣可避暑，剛好平衡北部長車程","textPreview":"• 室內冷氣可避暑，剛好平衡北部長車程","textChars":19,"textLines":1,"bbox":[670,296,520,46]}
+{"kind":"textbox","id":"sh/o3ahwrel","slide":7,"text":"現場走法","textPreview":"現場走法","textChars":4,"textLines":1,"bbox":[670,388,220,30]}
+{"kind":"textbox","id":"sh/m18vedob","slide":7,"text":"• 先上廁所再入館；不要一進去就逛紀念品","textPreview":"• 先上廁所再入館；不要一進去就逛紀念品","textChars":20,"textLines":1,"bbox":[670,434,520,46]}
+{"kind":"textbox","id":"sh/n21cnypw","slide":7,"text":"• 黑潮之海集合拍照後自由 30 分鐘","textPreview":"• 黑潮之海集合拍照後自由 30 分鐘","textChars":19,"textLines":1,"bbox":[670,476,520,46]}
+{"kind":"textbox","id":"sh/83adg36h","slide":7,"text":"• 出口集合後再看戶外區，避免有人走失","textPreview":"• 出口集合後再看戶外區，避免有人走失","textChars":19,"textLines":1,"bbox":[670,518,520,46]}
+{"kind":"textbox","id":"sh/94jup8n2","slide":7,"text":"官方資訊：2026/7/18-7/31 旺季 8:30-20:00，最後入館 19:00。","textPreview":"官方資訊：2026/7/18-7/31 旺季 8:30-20:00，最後入館 19:00。","textChars":45,"textLines":1,"bbox":[78,590,1040,32]}
+{"kind":"textbox","id":"sh/a5svidon","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/wre5kfq1","slide":7,"name":"","alt":"美麗海水族館黑潮之海實景","bbox":[62,156,560,395]}
+{"kind":"notes","id":"nt/g4soly","slide":7,"text":""}
+{"kind":"slide","id":"sl/9pz96v","slide":8,"title":"沖繩 2026 家族自駕行程","textShapes":11}
+{"kind":"textbox","id":"sh/6xg3mpwb","slide":8,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/dk72x4fm","slide":8,"text":"古宇利大橋值得去，但蝦蝦飯要當彈性小吃","textPreview":"古宇利大橋值得去，但蝦蝦飯要當彈性小吃","textChars":19,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/sjyloze1","slide":8,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/itw3i5gz","slide":8,"text":"古宇利大橋","textPreview":"古宇利大橋","textChars":5,"textLines":1,"bbox":[594,164,170,30]}
+{"kind":"textbox","id":"sh/5wn2tkfq","slide":8,"text":"開車過橋本身就是景點；適合全團拍照，停 30-45 分鐘即可。","textPreview":"開車過橋本身就是景點；適合全團拍照，停 30-45 分鐘即可。","textChars":31,"textLines":1,"bbox":[780,162,380,58]}
+{"kind":"shape","id":"sh/4velkfe5","slide":8,"bbox":[594,238,560,0]}
+{"kind":"textbox","id":"sh/nq943exo","slide":8,"text":"古宇利島","textPreview":"古宇利島","textChars":4,"textLines":1,"bbox":[594,266,170,30]}
+{"kind":"textbox","id":"sh/2p03u9wj","slide":8,"text":"海灘、海景、甜點店可自由分散，不要拉太遠。","textPreview":"海灘、海景、甜點店可自由分散，不要拉太遠。","textChars":21,"textLines":1,"bbox":[780,264,380,58]}
+{"kind":"shape","id":"sh/s7uhknah","slide":8,"bbox":[594,340,560,0]}
+{"kind":"textbox","id":"sh/t83itsb2","slide":8,"text":"蝦蝦飯","textPreview":"蝦蝦飯","textChars":3,"textLines":1,"bbox":[594,368,170,30]}
+{"kind":"textbox","id":"sh/65czidcb","slide":8,"text":"好吃但排隊不可控；16 人建議分批買，不當正式午餐。","textPreview":"好吃但排隊不可控；16 人建議分批買，不當正式午餐。","textChars":26,"textLines":1,"bbox":[780,366,380,58]}
+{"kind":"shape","id":"sh/r6l0ritw","slide":8,"bbox":[594,442,560,0]}
+{"kind":"textbox","id":"sh/43ahg3u5","slide":8,"text":"備瀨福木林道","textPreview":"備瀨福木林道","textChars":6,"textLines":1,"bbox":[594,470,170,30]}
+{"kind":"textbox","id":"sh/543ip8bq","slide":8,"text":"若美麗海後還有體力可加；若小孩累就跳過。","textPreview":"若美麗海後還有體力可加；若小孩累就跳過。","textChars":20,"textLines":1,"bbox":[780,468,380,58]}
+{"kind":"shape","id":"sh/i1szedcf","slide":8,"bbox":[594,544,560,0]}
+{"kind":"textbox","id":"sh/j210nytk","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/qp0r2p8j","slide":8,"name":"","alt":"古宇利大橋實景","bbox":[64,162,480,360]}
+{"kind":"notes","id":"nt/9pz96v","slide":8,"text":""}
+{"kind":"slide","id":"sl/nu768e","slide":9,"title":"沖繩 2026 家族自駕行程","textShapes":21}
+{"kind":"textbox","id":"sh/veh0zatc","slide":9,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/wfqh8vux","slide":9,"text":"Day 3｜南部與中部要做取捨，購物點不能全放大","textPreview":"Day 3｜南部與中部要做取捨，購物點不能全放大","textChars":24,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/hgzi10bi","slide":9,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/ji103at8","slide":9,"text":"時間","textPreview":"時間","textChars":2,"textLines":1,"bbox":[64,158,112,70]}
+{"kind":"textbox","id":"sh/4ja1cfut","slide":9,"text":"安排","textPreview":"安排","textChars":2,"textLines":1,"bbox":[176,158,284,70]}
+{"kind":"textbox","id":"sh/5kji5kbe","slide":9,"text":"導遊提醒","textPreview":"導遊提醒","textChars":4,"textLines":1,"bbox":[460,158,272,70]}
+{"kind":"textbox","id":"sh/ylozylcj","slide":9,"text":"09:30","textPreview":"09:30","textChars":5,"textLines":1,"bbox":[64,228,112,70]}
+{"kind":"textbox","id":"sh/zmx0rqt4","slide":9,"text":"Costco 沖繩南城","textPreview":"Costco 沖繩南城","textChars":11,"textLines":1,"bbox":[176,228,284,70]}
+{"kind":"textbox","id":"sh/ryhkfm54","slide":9,"text":"採買點，不是觀光點；90 分鐘上限","textPreview":"採買點，不是觀光點；90 分鐘上限","textChars":17,"textLines":1,"bbox":[460,228,272,70]}
+{"kind":"textbox","id":"sh/qx8jmh4j","slide":9,"text":"11:45","textPreview":"11:45","textChars":5,"textLines":1,"bbox":[64,298,112,70]}
+{"kind":"textbox","id":"sh/d0j2hwna","slide":9,"text":"系滿魚市場","textPreview":"系滿魚市場","textChars":5,"textLines":1,"bbox":[176,298,284,70]}
+{"kind":"textbox","id":"sh/czq1ormp","slide":9,"text":"小吃午餐、海鮮採買；不要太晚到","textPreview":"小吃午餐、海鮮採買；不要太晚到","textChars":15,"textLines":1,"bbox":[460,298,272,70]}
+{"kind":"textbox","id":"sh/3ahkbm5s","slide":9,"text":"13:15","textPreview":"13:15","textChars":5,"textLines":1,"bbox":[64,368,112,70]}
+{"kind":"textbox","id":"sh/i98jih4n","slide":9,"text":"DMM 水族館或瀨長島","textPreview":"DMM 水族館或瀨長島","textChars":11,"textLines":1,"bbox":[176,368,284,70]}
+{"kind":"textbox","id":"sh/5wz2dwny","slide":9,"text":"有小孩/雨天選 DMM；想拍照選瀨長島","textPreview":"有小孩/雨天選 DMM；想拍照選瀨長島","textChars":19,"textLines":1,"bbox":[460,368,272,70]}
+{"kind":"textbox","id":"sh/4vq1krmd","slide":9,"text":"15:30","textPreview":"15:30","textChars":5,"textLines":1,"bbox":[64,438,112,70]}
+{"kind":"textbox","id":"sh/v6xk725w","slide":9,"text":"AEON Rycom 短逛","textPreview":"AEON Rycom 短逛","textChars":13,"textLines":1,"bbox":[176,438,284,70]}
+{"kind":"textbox","id":"sh/u5ojex4b","slide":9,"text":"若 Costco 已買很多，可直接跳過","textPreview":"若 Costco 已買很多，可直接跳過","textChars":19,"textLines":1,"bbox":[460,438,272,70]}
+{"kind":"textbox","id":"sh/y143qx83","slide":9,"text":"17:30","textPreview":"17:30","textChars":5,"textLines":1,"bbox":[64,508,112,70]}
+{"kind":"textbox","id":"sh/j2xkj2po","slide":9,"text":"美國村晚餐與夜景","textPreview":"美國村晚餐與夜景","textChars":8,"textLines":1,"bbox":[176,508,284,70]}
+{"kind":"textbox","id":"sh/k36ls7q9","slide":9,"text":"這天最適合當收尾點","textPreview":"這天最適合當收尾點","textChars":9,"textLines":1,"bbox":[460,508,272,70]}
+{"kind":"textbox","id":"sh/l4f2lc7u","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/7694jmls","slide":9,"name":"","alt":"瀨長島 Umikaji Terrace 實景","bbox":[748,150,454,500]}
+{"kind":"notes","id":"nt/nu768e","slide":9,"text":""}
+{"kind":"slide","id":"sl/a1iye5","slide":10,"title":"沖繩 2026 家族自駕行程","textShapes":16}
+{"kind":"textbox","id":"sh/07i9g3e9","slide":10,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/z6987ydo","slide":10,"text":"Costco、系滿、DMM：這三點的角色完全不同","textPreview":"Costco、系滿、DMM：這三點的角色完全不同","textChars":24,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/e50retw3","slide":10,"bbox":[48,136,1184,0]}
+{"kind":"shape","id":"sh/d4rq5ovy","slide":10,"bbox":[70,174,338,330]}
+{"kind":"shape","id":"sh/cjipcjed","slide":10,"bbox":[70,174,338,58]}
+{"kind":"textbox","id":"sh/rip83eds","slide":10,"text":"Costco 沖繩南城","textPreview":"Costco 沖繩南城","textChars":11,"textLines":1,"bbox":[92,190,294,28]}
+{"kind":"textbox","id":"sh/qhg7atw7","slide":10,"text":"角色：採買補給","textPreview":"角色：採買補給","textChars":7,"textLines":1,"bbox":[92,266,290,32]}
+{"kind":"textbox","id":"sh/x0bqhsv2","slide":10,"text":"適合買水、零食、早餐、伴手禮；不買冷藏冷凍。會員卡先確認。","textPreview":"適合買水、零食、早餐、伴手禮；不買冷藏冷凍。會員卡先確認。","textChars":29,"textLines":1,"bbox":[92,322,286,112]}
+{"kind":"textbox","id":"sh/wf29oneh","slide":10,"text":"上限 90 分鐘","textPreview":"上限 90 分鐘","textChars":8,"textLines":1,"bbox":[92,454,240,30]}
+{"kind":"shape","id":"sh/atgfmhwv","slide":10,"bbox":[460,174,338,330]}
+{"kind":"shape","id":"sh/vupgvmdg","slide":10,"bbox":[460,174,338,58]}
+{"kind":"textbox","id":"sh/wvixore1","slide":10,"text":"系滿魚市場","textPreview":"系滿魚市場","textChars":5,"textLines":1,"bbox":[482,190,294,28]}
+{"kind":"textbox","id":"sh/xwryxwvm","slide":10,"text":"角色：午餐小吃","textPreview":"角色：午餐小吃","textChars":7,"textLines":1,"bbox":[482,266,290,32]}
+{"kind":"textbox","id":"sh/mpgfihwz","slide":10,"text":"適合海鮮、炸物、簡單分食；停留 60-75 分鐘，不排正式長餐。","textPreview":"適合海鮮、炸物、簡單分食；停留 60-75 分鐘，不排正式長餐。","textChars":32,"textLines":1,"bbox":[482,322,286,112]}
+{"kind":"textbox","id":"sh/nqpgrmd4","slide":10,"text":"上限 75 分鐘","textPreview":"上限 75 分鐘","textChars":8,"textLines":1,"bbox":[482,454,240,30]}
+{"kind":"shape","id":"sh/8ryxkrep","slide":10,"bbox":[850,174,338,330]}
+{"kind":"shape","id":"sh/9s7ytwva","slide":10,"bbox":[850,174,338,58]}
+{"kind":"textbox","id":"sh/6l0zu1w3","slide":10,"text":"DMM 水族館","textPreview":"DMM 水族館","textChars":7,"textLines":1,"bbox":[872,190,294,28]}
+{"kind":"textbox","id":"sh/7mtg36do","slide":10,"text":"角色：親子/雨天備案","textPreview":"角色：親子/雨天備案","textChars":10,"textLines":1,"bbox":[872,266,290,32]}
+{"kind":"textbox","id":"sh/36lcvyt0","slide":10,"text":"室內、近機場，適合小孩；但已去美麗海，若時間緊可刪。","textPreview":"室內、近機場，適合小孩；但已去美麗海，若時間緊可刪。","textChars":26,"textLines":1,"bbox":[872,322,286,112]}
+{"kind":"textbox","id":"sh/25cvmtcf","slide":10,"text":"1.5 小時足夠","textPreview":"1.5 小時足夠","textChars":8,"textLines":1,"bbox":[872,454,240,30]}
+{"kind":"textbox","id":"sh/p83ux8b6","slide":10,"text":"導遊判斷：若當天已延誤，先刪 DMM 或 AEON，不刪美國村晚餐。","textPreview":"導遊判斷：若當天已延誤，先刪 DMM 或 AEON，不刪美國村晚餐。","textChars":34,"textLines":1,"bbox":[86,570,980,36]}
+{"kind":"textbox","id":"sh/47udo3ul","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/a1iye5","slide":10,"text":""}
+{"kind":"slide","id":"sl/hz26z2","slide":11,"title":"沖繩 2026 家族自駕行程","textShapes":17}
+{"kind":"textbox","id":"sh/ove9kvyl","slide":11,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/nu58rqx0","slide":11,"text":"瀨長島和美國村是拍照與收尾，AEON 只做補貨","textPreview":"瀨長島和美國村是拍照與收尾，AEON 只做補貨","textChars":23,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/mtwrilgf","slide":11,"bbox":[48,136,1184,0]}
+{"kind":"shape","id":"sh/zql8nqxo","slide":11,"bbox":[848,160,320,300]}
+{"kind":"textbox","id":"sh/epcrelgj","slide":11,"text":"AEON Rycom","textPreview":"AEON Rycom","textChars":10,"textLines":1,"bbox":[876,190,260,32]}
+{"kind":"textbox","id":"sh/do3qlgfy","slide":11,"text":"適合：藥妝、超市、伴手禮、冷氣休息。\n\n不適合：逛到兩小時以上，會壓縮美國村晚餐與夜景。","textPreview":"適合：藥妝、超市、伴手禮、冷氣休息。 |  | 不適合：逛到兩小時以上，會壓縮美國村晚餐與夜景。","textChars":44,"textLines":3,"bbox":[876,244,250,150]}
+{"kind":"textbox","id":"sh/cnu9cbyd","slide":11,"text":"點位","textPreview":"點位","textChars":2,"textLines":1,"bbox":[92,510,150,42]}
+{"kind":"textbox","id":"sh/a507ut8z","slide":11,"text":"建議停留","textPreview":"建議停留","textChars":4,"textLines":1,"bbox":[242,510,180,42]}
+{"kind":"textbox","id":"sh/b698ne9k","slide":11,"text":"定位","textPreview":"定位","textChars":2,"textLines":1,"bbox":[422,510,570,42]}
+{"kind":"textbox","id":"sh/w7ipwjq5","slide":11,"text":"瀨長島","textPreview":"瀨長島","textChars":3,"textLines":1,"bbox":[92,552,150,42]}
+{"kind":"textbox","id":"sh/x8rqporq","slide":11,"text":"60-90 分","textPreview":"60-90 分","textChars":7,"textLines":1,"bbox":[242,552,180,42]}
+{"kind":"textbox","id":"sh/m1g7q983","slide":11,"text":"看海、拍照、喝飲料","textPreview":"看海、拍照、喝飲料","textChars":9,"textLines":1,"bbox":[422,552,570,42]}
+{"kind":"textbox","id":"sh/n2p8je9o","slide":11,"text":"AEON","textPreview":"AEON","textChars":4,"textLines":1,"bbox":[92,594,150,42]}
+{"kind":"textbox","id":"sh/o3ypsjq9","slide":11,"text":"60-90 分","textPreview":"60-90 分","textChars":7,"textLines":1,"bbox":[242,594,180,42]}
+{"kind":"textbox","id":"sh/947qloru","slide":11,"text":"補貨、冷氣、廁所","textPreview":"補貨、冷氣、廁所","textChars":8,"textLines":1,"bbox":[422,594,570,42]}
+{"kind":"textbox","id":"sh/exw7mp87","slide":11,"text":"美國村","textPreview":"美國村","textChars":3,"textLines":1,"bbox":[92,636,150,42]}
+{"kind":"textbox","id":"sh/zypofu9c","slide":11,"text":"2.5-3 小時","textPreview":"2.5-3 小時","textChars":8,"textLines":1,"bbox":[242,636,180,42]}
+{"kind":"textbox","id":"sh/3il4nqp4","slide":11,"text":"晚餐、夜景、自由逛","textPreview":"晚餐、夜景、自由逛","textChars":9,"textLines":1,"bbox":[422,636,570,42]}
+{"kind":"textbox","id":"sh/2hcnu5oz","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"image","id":"im/svmlwzqx","slide":11,"name":"","alt":"瀨長島 Umikaji Terrace 實景","bbox":[64,160,360,300]}
+{"kind":"image","id":"im/dgv2p4ri","slide":11,"name":"","alt":"美國村實景","bbox":[456,160,360,300]}
+{"kind":"notes","id":"nt/hz26z2","slide":11,"text":""}
+{"kind":"slide","id":"sl/qrv4e9","slide":12,"title":"沖繩 2026 家族自駕行程","textShapes":35}
+{"kind":"textbox","id":"sh/fa9ojits","slide":12,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/gbi5cnad","slide":12,"text":"景點適合度：用團體條件看，不只看景點名氣","textPreview":"景點適合度：用團體條件看，不只看景點名氣","textChars":20,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/hcb6lsby","slide":12,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/2dknexsj","slide":12,"text":"景點","textPreview":"景點","textChars":2,"textLines":1,"bbox":[58,158,150,50]}
+{"kind":"textbox","id":"sh/3eton29o","slide":12,"text":"適合度","textPreview":"適合度","textChars":3,"textLines":1,"bbox":[208,158,120,50]}
+{"kind":"textbox","id":"sh/4f2pg7a9","slide":12,"text":"適合原因","textPreview":"適合原因","textChars":4,"textLines":1,"bbox":[328,158,430,50]}
+{"kind":"textbox","id":"sh/pgb6pcru","slide":12,"text":"不適合點","textPreview":"不適合點","textChars":4,"textLines":1,"bbox":[758,158,430,50]}
+{"kind":"textbox","id":"sh/ihgn2tsz","slide":12,"text":"美麗海","textPreview":"美麗海","textChars":3,"textLines":1,"bbox":[58,208,150,50]}
+{"kind":"textbox","id":"sh/jipobytk","slide":12,"text":"必排","textPreview":"必排","textChars":2,"textLines":1,"bbox":[208,208,120,50]}
+{"kind":"textbox","id":"sh/nyxsbaxc","slide":12,"text":"代表性高、親子友善、室內避暑","textPreview":"代表性高、親子友善、室內避暑","textChars":14,"textLines":1,"bbox":[328,208,430,50]}
+{"kind":"textbox","id":"sh/mxobi5wr","slide":12,"text":"遠，必須早出發","textPreview":"遠，必須早出發","textChars":7,"textLines":1,"bbox":[758,208,430,50]}
+{"kind":"textbox","id":"sh/90zudkf2","slide":12,"text":"古宇利","textPreview":"古宇利","textChars":3,"textLines":1,"bbox":[58,258,150,50]}
+{"kind":"textbox","id":"sh/8zqtkfex","slide":12,"text":"必排","textPreview":"必排","textChars":2,"textLines":1,"bbox":[208,258,120,50]}
+{"kind":"textbox","id":"sh/zuxs7ax0","slide":12,"text":"海景強、拍照好、順接北部","textPreview":"海景強、拍照好、順接北部","textChars":12,"textLines":1,"bbox":[328,258,430,50]}
+{"kind":"textbox","id":"sh/y9obe5wf","slide":12,"text":"餐飲與停車不適合 16 人久留","textPreview":"餐飲與停車不適合 16 人久留","textChars":15,"textLines":1,"bbox":[758,258,430,50]}
+{"kind":"textbox","id":"sh/lwfa90f6","slide":12,"text":"國際通/牧志","textPreview":"國際通/牧志","textChars":6,"textLines":1,"bbox":[58,308,150,50]}
+{"kind":"textbox","id":"sh/0v6tgvel","slide":12,"text":"必排","textPreview":"必排","textChars":2,"textLines":1,"bbox":[208,308,120,50]}
+{"kind":"textbox","id":"sh/b6ds3qx4","slide":12,"text":"抵達日輕鬆、購物吃飯方便","textPreview":"抵達日輕鬆、購物吃飯方便","textChars":12,"textLines":1,"bbox":[328,308,430,50]}
+{"kind":"textbox","id":"sh/q54balwj","slide":12,"text":"三台車停車麻煩","textPreview":"三台車停車麻煩","textChars":7,"textLines":1,"bbox":[758,308,430,50]}
+{"kind":"textbox","id":"sh/e14bml0b","slide":12,"text":"美國村","textPreview":"美國村","textChars":3,"textLines":1,"bbox":[58,358,150,50]}
+{"kind":"textbox","id":"sh/f2dcvqhw","slide":12,"text":"必排","textPreview":"必排","textChars":2,"textLines":1,"bbox":[208,358,120,50]}
+{"kind":"textbox","id":"sh/g3mtovih","slide":12,"text":"晚餐與夜景好收尾","textPreview":"晚餐與夜景好收尾","textChars":8,"textLines":1,"bbox":[328,358,430,50]}
+{"kind":"textbox","id":"sh/14vux0z2","slide":12,"text":"週末人潮與停車要耐心","textPreview":"週末人潮與停車要耐心","textChars":10,"textLines":1,"bbox":[758,358,430,50]}
+{"kind":"textbox","id":"sh/254vql0n","slide":12,"text":"Costco","textPreview":"Costco","textChars":6,"textLines":1,"bbox":[58,408,150,50]}
+{"kind":"textbox","id":"sh/36dczqh8","slide":12,"text":"限時","textPreview":"限時","textChars":2,"textLines":1,"bbox":[208,408,120,50]}
+{"kind":"textbox","id":"sh/o7mdsvyd","slide":12,"text":"補給效率高","textPreview":"補給效率高","textChars":5,"textLines":1,"bbox":[328,408,430,50]}
+{"kind":"textbox","id":"sh/psfu10zy","slide":12,"text":"不是觀光點，容易失控採買","textPreview":"不是觀光點，容易失控採買","textChars":12,"textLines":1,"bbox":[758,408,430,50]}
+{"kind":"textbox","id":"sh/qtovu5gj","slide":12,"text":"DMM","textPreview":"DMM","textChars":3,"textLines":1,"bbox":[58,458,150,50]}
+{"kind":"textbox","id":"sh/buxc3ah4","slide":12,"text":"備案","textPreview":"備案","textChars":2,"textLines":1,"bbox":[208,458,120,50]}
+{"kind":"textbox","id":"sh/l0j698ni","slide":12,"text":"雨天/小孩友善","textPreview":"雨天/小孩友善","textChars":7,"textLines":1,"bbox":[328,458,430,50]}
+{"kind":"textbox","id":"sh/kza5g36x","slide":12,"text":"和美麗海重疊，時間緊可刪","textPreview":"和美麗海重疊，時間緊可刪","textChars":12,"textLines":1,"bbox":[758,458,430,50]}
+{"kind":"textbox","id":"sh/zy1o7y5c","slide":12,"text":"AEON","textPreview":"AEON","textChars":4,"textLines":1,"bbox":[58,508,150,50]}
+{"kind":"textbox","id":"sh/yxsnetor","slide":12,"text":"備案","textPreview":"備案","textChars":2,"textLines":1,"bbox":[208,508,120,50]}
+{"kind":"textbox","id":"sh/94j6d8ne","slide":12,"text":"冷氣、超市、伴手禮","textPreview":"冷氣、超市、伴手禮","textChars":9,"textLines":1,"bbox":[328,508,430,50]}
+{"kind":"textbox","id":"sh/83a5k3m9","slide":12,"text":"和 Costco/國際通購物重疊","textPreview":"和 Costco/國際通購物重疊","textChars":16,"textLines":1,"bbox":[758,508,430,50]}
+{"kind":"textbox","id":"sh/721oby5o","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/qrv4e9","slide":12,"text":""}
+{"kind":"slide","id":"sl/70eiq1","slide":13,"title":"沖繩 2026 家族自駕行程","textShapes":13}
+{"kind":"textbox","id":"sh/zi1wn69w","slide":13,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/0jadgbah","slide":13,"text":"三台車執行規則：固定乘客、固定集合點、固定回報","textPreview":"三台車執行規則：固定乘客、固定集合點、固定回報","textChars":23,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/lkjepgrm","slide":13,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/mlsvils7","slide":13,"text":"車輛分工","textPreview":"車輛分工","textChars":4,"textLines":1,"bbox":[70,166,150,34]}
+{"kind":"textbox","id":"sh/761wrq9s","slide":13,"text":"A/B/C 車固定人員與司機；小孩與安全座椅固定車，不每天換。","textPreview":"A/B/C 車固定人員與司機；小孩與安全座椅固定車，不每天換。","textChars":31,"textLines":1,"bbox":[250,169,860,48]}
+{"kind":"shape","id":"sh/87adkvad","slide":13,"bbox":[70,230,1050,0]}
+{"kind":"textbox","id":"sh/98jet0ry","slide":13,"text":"集合方式","textPreview":"集合方式","textChars":4,"textLines":1,"bbox":[70,254,150,34]}
+{"kind":"textbox","id":"sh/2pov61s3","slide":13,"text":"每站只發布下一站地址、集合時間、停車場名稱；不要用模糊地標。","textPreview":"每站只發布下一站地址、集合時間、停車場名稱；不要用模糊地標。","textChars":30,"textLines":1,"bbox":[250,257,860,48]}
+{"kind":"shape","id":"sh/3qxcfm9o","slide":13,"bbox":[70,318,1050,0]}
+{"kind":"textbox","id":"sh/j29wna50","slide":13,"text":"時間緩衝","textPreview":"時間緩衝","textChars":4,"textLines":1,"bbox":[70,342,150,34]}
+{"kind":"textbox","id":"sh/yh0fu54f","slide":13,"text":"每個景點離開前預留 15 分鐘上廁所與找人；北部日預留 30 分鐘。","textPreview":"每個景點離開前預留 15 分鐘上廁所與找人；北部日預留 30 分鐘。","textChars":34,"textLines":1,"bbox":[250,345,860,48]}
+{"kind":"shape","id":"sh/l4bypkn6","slide":13,"bbox":[70,406,1050,0]}
+{"kind":"textbox","id":"sh/k32xwfml","slide":13,"text":"停車策略","textPreview":"停車策略","textChars":4,"textLines":1,"bbox":[70,430,150,34]}
+{"kind":"textbox","id":"sh/be9wjq54","slide":13,"text":"三台車不一定要停同一排，但要停同一停車場；司機先拍停車區域。","textPreview":"三台車不一定要停同一排，但要停同一停車場；司機先拍停車區域。","textChars":30,"textLines":1,"bbox":[250,433,860,48]}
+{"kind":"shape","id":"sh/ad0fql4j","slide":13,"bbox":[70,494,1050,0]}
+{"kind":"textbox","id":"sh/xgrel0nu","slide":13,"text":"通訊規則","textPreview":"通訊規則","textChars":4,"textLines":1,"bbox":[70,518,150,34]}
+{"kind":"textbox","id":"sh/wfixsvm9","slide":13,"text":"LINE 群組只放集合資訊；聊天另開群，避免重要訊息被洗掉。","textPreview":"LINE 群組只放集合資訊；聊天另開群，避免重要訊息被洗掉。","textChars":30,"textLines":1,"bbox":[250,521,860,48]}
+{"kind":"shape","id":"sh/napwfq5s","slide":13,"bbox":[70,582,1050,0]}
+{"kind":"textbox","id":"sh/m9gfml47","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/70eiq1","slide":13,"text":""}
+{"kind":"slide","id":"sl/hl3dp7","slide":14,"title":"沖繩 2026 家族自駕行程","textShapes":25}
+{"kind":"textbox","id":"sh/8zu5snad","slide":14,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/nyl4jit8","slide":14,"text":"餐食安排：16 人重點不是名店，是準時與可分桌","textPreview":"餐食安排：16 人重點不是名店，是準時與可分桌","textChars":23,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/mxcnqdsn","slide":14,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/lw3mhsb2","slide":14,"text":"日期","textPreview":"日期","textChars":2,"textLines":1,"bbox":[72,160,160,62]}
+{"kind":"textbox","id":"sh/0va5onah","slide":14,"text":"建議餐食","textPreview":"建議餐食","textChars":4,"textLines":1,"bbox":[232,160,270,62]}
+{"kind":"textbox","id":"sh/zu14fitw","slide":14,"text":"安排邏輯","textPreview":"安排邏輯","textChars":4,"textLines":1,"bbox":[502,160,690,62]}
+{"kind":"textbox","id":"sh/ytsnmdsb","slide":14,"text":"7/17 午餐","textPreview":"7/17 午餐","textChars":7,"textLines":1,"bbox":[72,222,160,62]}
+{"kind":"textbox","id":"sh/5sn6tcb6","slide":14,"text":"燒肉本舖已訂","textPreview":"燒肉本舖已訂","textChars":6,"textLines":1,"bbox":[232,222,270,62]}
+{"kind":"textbox","id":"sh/kre507al","slide":14,"text":"確認保留到 13:00；抵達日唯一硬時間","textPreview":"確認保留到 13:00；抵達日唯一硬時間","textChars":20,"textLines":1,"bbox":[502,222,690,62]}
+{"kind":"textbox","id":"sh/2hg3udkj","slide":14,"text":"7/17 晚餐","textPreview":"7/17 晚餐","textChars":7,"textLines":1,"bbox":[72,284,160,62]}
+{"kind":"textbox","id":"sh/32pkni1o","slide":14,"text":"國際通自由餐","textPreview":"國際通自由餐","textChars":6,"textLines":1,"bbox":[232,284,270,62]}
+{"kind":"textbox","id":"sh/o3ylwn29","slide":14,"text":"可分散吃，避免 16 人等同一家餐廳","textPreview":"可分散吃，避免 16 人等同一家餐廳","textChars":18,"textLines":1,"bbox":[502,284,690,62]}
+{"kind":"textbox","id":"sh/p472psju","slide":14,"text":"7/18 午餐","textPreview":"7/18 午餐","textChars":7,"textLines":1,"bbox":[72,346,160,62]}
+{"kind":"textbox","id":"sh/edwjqdk7","slide":14,"text":"美麗海/本部周邊簡餐","textPreview":"美麗海/本部周邊簡餐","textChars":10,"textLines":1,"bbox":[232,346,270,62]}
+{"kind":"textbox","id":"sh/fe5kji1s","slide":14,"text":"不要追名店；重點是快速進下一站","textPreview":"不要追名店；重點是快速進下一站","textChars":15,"textLines":1,"bbox":[502,346,690,62]}
+{"kind":"textbox","id":"sh/gfe1sn2d","slide":14,"text":"7/18 晚餐","textPreview":"7/18 晚餐","textChars":7,"textLines":1,"bbox":[72,408,160,62]}
+{"kind":"textbox","id":"sh/1g72lsjy","slide":14,"text":"飯店附近/那霸市區","textPreview":"飯店附近/那霸市區","textChars":9,"textLines":1,"bbox":[232,408,270,62]}
+{"kind":"textbox","id":"sh/y9032xkb","slide":14,"text":"北部回程後不要再開遠路","textPreview":"北部回程後不要再開遠路","textChars":11,"textLines":1,"bbox":[502,408,690,62]}
+{"kind":"textbox","id":"sh/za9kv21w","slide":14,"text":"7/19 午餐","textPreview":"7/19 午餐","textChars":7,"textLines":1,"bbox":[72,470,160,62]}
+{"kind":"textbox","id":"sh/ve10nuh8","slide":14,"text":"系滿魚市場小吃","textPreview":"系滿魚市場小吃","textChars":7,"textLines":1,"bbox":[232,470,270,62]}
+{"kind":"textbox","id":"sh/udszu903","slide":14,"text":"分批買、分桌吃，節奏快","textPreview":"分批買、分桌吃，節奏快","textChars":11,"textLines":1,"bbox":[502,470,690,62]}
+{"kind":"textbox","id":"sh/hgjip4ze","slide":14,"text":"7/19 晚餐","textPreview":"7/19 晚餐","textChars":7,"textLines":1,"bbox":[72,532,160,62]}
+{"kind":"textbox","id":"sh/wfahwzit","slide":14,"text":"美國村","textPreview":"美國村","textChars":3,"textLines":1,"bbox":[232,532,270,62]}
+{"kind":"textbox","id":"sh/jil0rehk","slide":14,"text":"選擇多，可依口味分組","textPreview":"選擇多，可依口味分組","textChars":10,"textLines":1,"bbox":[502,532,690,62]}
+{"kind":"textbox","id":"sh/ihczy90z","slide":14,"text":"導遊提醒：古宇利蝦蝦飯適合當下午點心，不適合當 16 人正式午餐。","textPreview":"導遊提醒：古宇利蝦蝦飯適合當下午點心，不適合當 16 人正式午餐。","textChars":33,"textLines":1,"bbox":[88,590,960,32]}
+{"kind":"textbox","id":"sh/5k3itozq","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/hl3dp7","slide":14,"text":""}
+{"kind":"slide","id":"sl/bdyphv","slide":15,"title":"沖繩 2026 家族自駕行程","textShapes":13}
+{"kind":"textbox","id":"sh/1cz6dgn6","slide":15,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/e9onilof","slide":15,"text":"小孩、暑熱、連假：這三件事會決定體感好不好","textPreview":"小孩、暑熱、連假：這三件事會決定體感好不好","textChars":21,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/faxobq50","slide":15,"bbox":[48,136,1184,0]}
+{"kind":"shape","id":"sh/s765gb6p","slide":15,"bbox":[80,170,500,104]}
+{"kind":"textbox","id":"sh/d8f69gnu","slide":15,"text":"暑熱","textPreview":"暑熱","textChars":2,"textLines":1,"bbox":[104,188,150,28]}
+{"kind":"textbox","id":"sh/q5one1oj","slide":15,"text":"12:00-15:00 優先安排室內、車程或短停；每車固定放水。","textPreview":"12:00-15:00 優先安排室內、車程或短停；每車固定放水。","textChars":32,"textLines":1,"bbox":[258,186,282,58]}
+{"kind":"shape","id":"sh/r6xo7654","slide":15,"bbox":[660,170,500,104]}
+{"kind":"textbox","id":"sh/c3apsv6t","slide":15,"text":"兒童座椅","textPreview":"兒童座椅","textChars":4,"textLines":1,"bbox":[684,188,150,28]}
+{"kind":"textbox","id":"sh/x4j6l0ne","slide":15,"text":"日本租車未滿 6 歲依法需兒童座椅；出發前與租車公司確認數量。","textPreview":"日本租車未滿 6 歲依法需兒童座椅；出發前與租車公司確認數量。","textChars":31,"textLines":1,"bbox":[838,186,282,58]}
+{"kind":"shape","id":"sh/hkzatcnu","slide":15,"bbox":[80,312,500,104]}
+{"kind":"textbox","id":"sh/wjq9k7m9","slide":15,"text":"廁所","textPreview":"廁所","textChars":2,"textLines":1,"bbox":[104,330,150,28]}
+{"kind":"textbox","id":"sh/vihsrm54","slide":15,"text":"上車前全員上廁所；北部日每次集合都多抓 15 分鐘。","textPreview":"上車前全員上廁所；北部日每次集合都多抓 15 分鐘。","textChars":26,"textLines":1,"bbox":[258,328,282,58]}
+{"kind":"shape","id":"sh/uh8rih4j","slide":15,"bbox":[660,312,500,104]}
+{"kind":"textbox","id":"sh/9gzapcny","slide":15,"text":"連假車潮","textPreview":"連假車潮","textChars":4,"textLines":1,"bbox":[684,330,150,28]}
+{"kind":"textbox","id":"sh/8fq9g7md","slide":15,"text":"7/20 是日本海之日；7/18-7/20 北部與海邊景點車潮上升。","textPreview":"7/20 是日本海之日；7/18-7/20 北部與海邊景點車潮上升。","textChars":34,"textLines":1,"bbox":[838,328,282,58]}
+{"kind":"shape","id":"sh/7exsn25s","slide":15,"bbox":[80,454,500,104]}
+{"kind":"textbox","id":"sh/mdorex47","slide":15,"text":"颱風/雷雨","textPreview":"颱風/雷雨","textChars":5,"textLines":1,"bbox":[104,472,150,28]}
+{"kind":"textbox","id":"sh/tcja1wn2","slide":15,"text":"沖繩夏天午後雨常見；DMM、AEON、國際通可作為室內替代。","textPreview":"沖繩夏天午後雨常見；DMM、AEON、國際通可作為室內替代。","textChars":30,"textLines":1,"bbox":[258,470,282,58]}
+{"kind":"textbox","id":"sh/sbatsrmh","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/bdyphv","slide":15,"text":""}
+{"kind":"slide","id":"sl/rbus7p","slide":16,"title":"沖繩 2026 家族自駕行程","textShapes":22}
+{"kind":"textbox","id":"sh/jmhgn2ho","slide":16,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/4nqxg7i9","slide":16,"text":"備案不是臨時亂改，而是先排好替換邏輯","textPreview":"備案不是臨時亂改，而是先排好替換邏輯","textChars":18,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/5ozypczu","slide":16,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/6psfih0z","slide":16,"text":"情境","textPreview":"情境","textChars":2,"textLines":1,"bbox":[64,160,250,62]}
+{"kind":"textbox","id":"sh/rq1gr2hk","slide":16,"text":"刪除","textPreview":"刪除","textChars":2,"textLines":1,"bbox":[314,160,330,62]}
+{"kind":"textbox","id":"sh/sraxk7i5","slide":16,"text":"替換/保留","textPreview":"替換/保留","textChars":5,"textLines":1,"bbox":[644,160,500,62]}
+{"kind":"textbox","id":"sh/tsjytczq","slide":16,"text":"7/18 北部塞車","textPreview":"7/18 北部塞車","textChars":9,"textLines":1,"bbox":[64,222,250,62]}
+{"kind":"textbox","id":"sh/mtofmd0v","slide":16,"text":"備瀨福木林道","textPreview":"備瀨福木林道","textChars":6,"textLines":1,"bbox":[314,222,330,62]}
+{"kind":"textbox","id":"sh/7uxwfihg","slide":16,"text":"保留美麗海 + 古宇利大橋","textPreview":"保留美麗海 + 古宇利大橋","textChars":13,"textLines":1,"bbox":[644,222,500,62]}
+{"kind":"textbox","id":"sh/3upc3ud8","slide":16,"text":"7/19 下雨","textPreview":"7/19 下雨","textChars":7,"textLines":1,"bbox":[64,284,250,62]}
+{"kind":"textbox","id":"sh/i9gbupwn","slide":16,"text":"瀨長島戶外停留","textPreview":"瀨長島戶外停留","textChars":7,"textLines":1,"bbox":[314,284,330,62]}
+{"kind":"textbox","id":"sh/5w7u54vy","slide":16,"text":"DMM + AEON，晚餐仍去美國村","textPreview":"DMM + AEON，晚餐仍去美國村","textChars":18,"textLines":1,"bbox":[644,284,500,62]}
+{"kind":"textbox","id":"sh/4vytwzud","slide":16,"text":"小孩很累","textPreview":"小孩很累","textChars":4,"textLines":1,"bbox":[64,346,250,62]}
+{"kind":"textbox","id":"sh/v6pczadw","slide":16,"text":"AEON 或 DMM 擇一","textPreview":"AEON 或 DMM 擇一","textChars":13,"textLines":1,"bbox":[314,346,330,62]}
+{"kind":"textbox","id":"sh/u5wbq5wb","slide":16,"text":"保留瀨長島短停、美國村晚餐","textPreview":"保留瀨長島短停、美國村晚餐","textChars":13,"textLines":1,"bbox":[644,346,500,62]}
+{"kind":"textbox","id":"sh/h87u1kv2","slide":16,"text":"大人想購物","textPreview":"大人想購物","textChars":5,"textLines":1,"bbox":[64,408,250,62]}
+{"kind":"textbox","id":"sh/g7ytsfeh","slide":16,"text":"DMM","textPreview":"DMM","textChars":3,"textLines":1,"bbox":[314,408,330,62]}
+{"kind":"textbox","id":"sh/725cvad0","slide":16,"text":"Costco + AEON + 美國村","textPreview":"Costco + AEON + 美國村","textChars":19,"textLines":1,"bbox":[644,408,500,62]}
+{"kind":"textbox","id":"sh/m1wbm5wf","slide":16,"text":"想加首里城","textPreview":"想加首里城","textChars":5,"textLines":1,"bbox":[64,470,250,62]}
+{"kind":"textbox","id":"sh/axcvy5g7","slide":16,"text":"7/17 飯店休息時間","textPreview":"7/17 飯店休息時間","textChars":11,"textLines":1,"bbox":[314,470,330,62]}
+{"kind":"textbox","id":"sh/bylc7axs","slide":16,"text":"只短停 60-90 分鐘；正殿仍復原中","textPreview":"只短停 60-90 分鐘；正殿仍復原中","textChars":19,"textLines":1,"bbox":[644,470,500,62]}
+{"kind":"textbox","id":"sh/czed0fyd","slide":16,"text":"推薦原則：刪除「重複角色」的點，不刪除「代表性」或「晚餐收尾」的點。","textPreview":"推薦原則：刪除「重複角色」的點，不刪除「代表性」或「晚餐收尾」的點。","textChars":34,"textLines":1,"bbox":[86,600,980,30]}
+{"kind":"textbox","id":"sh/x0nu90fy","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/rbus7p","slide":16,"text":""}
+{"kind":"slide","id":"sl/36eekd","slide":17,"title":"沖繩 2026 家族自駕行程","textShapes":12}
+{"kind":"textbox","id":"sh/y5ofmpcf","slide":17,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/l8zyh4bq","slide":17,"text":"最終推薦版：把行程做成可準時完成的版本","textPreview":"最終推薦版：把行程做成可準時完成的版本","textChars":19,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/k7qxozu5","slide":17,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/7ahgjetw","slide":17,"text":"7/17 五","textPreview":"7/17 五","textChars":6,"textLines":1,"bbox":[76,174,160,34]}
+{"kind":"textbox","id":"sh/m98fq9sb","slide":17,"text":"機場 → 燒肉本舖 → 諾富特 → 國際通/牧志市場","textPreview":"機場 → 燒肉本舖 → 諾富特 → 國際通/牧志市場","textChars":26,"textLines":1,"bbox":[260,176,820,34]}
+{"kind":"shape","id":"sh/9czyl4b2","slide":17,"bbox":[76,230,1040,0]}
+{"kind":"textbox","id":"sh/8bqxsjah","slide":17,"text":"7/18 六","textPreview":"7/18 六","textChars":6,"textLines":1,"bbox":[76,270,160,34]}
+{"kind":"textbox","id":"sh/nexg7ats","slide":17,"text":"07:00 出發 → 美麗海 → 備瀨短停 → 古宇利大橋 → 那霸","textPreview":"07:00 出發 → 美麗海 → 備瀨短停 → 古宇利大橋 → 那霸","textChars":34,"textLines":1,"bbox":[260,272,840,34]}
+{"kind":"shape","id":"sh/2d4fe5c7","slide":17,"bbox":[76,326,1040,0]}
+{"kind":"textbox","id":"sh/8jmpwfmt","slide":17,"text":"7/19 日","textPreview":"7/19 日","textChars":6,"textLines":1,"bbox":[76,366,160,34]}
+{"kind":"textbox","id":"sh/9kv65kny","slide":17,"text":"Costco → 系滿魚市場 → DMM 或瀨長島 → AEON 短停 → 美國村","textPreview":"Costco → 系滿魚市場 → DMM 或瀨長島 → AEON 短停 → 美國村","textChars":41,"textLines":1,"bbox":[260,368,900,34]}
+{"kind":"shape","id":"sh/mh47u54n","slide":17,"bbox":[76,422,1040,0]}
+{"kind":"textbox","id":"sh/7ido3a58","slide":17,"text":"7/20 一","textPreview":"7/20 一","textChars":6,"textLines":1,"bbox":[76,462,160,34]}
+{"kind":"textbox","id":"sh/w76p0zmp","slide":17,"text":"07:45-08:00 離開飯店 → 加油 → 還車 → 09:30 前到機場","textPreview":"07:45-08:00 離開飯店 → 加油 → 還車 → 09:30 前到機場","textChars":39,"textLines":1,"bbox":[260,464,900,34]}
+{"kind":"textbox","id":"sh/h8f694na","slide":17,"text":"導遊結論：如果 7/19 一定要完整塞滿，請把 DMM 或 AEON 明確設為可刪備案；不要兩個都當必去。","textPreview":"導遊結論：如果 7/19 一定要完整塞滿，請把 DMM 或 AEON 明確設為可刪備案；不要兩個都當必去。","textChars":53,"textLines":1,"bbox":[86,566,1030,54]}
+{"kind":"textbox","id":"sh/u5o7yp4j","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/36eekd","slide":17,"text":""}
+{"kind":"slide","id":"sl/8ag441","slide":18,"title":"沖繩 2026 家族自駕行程","textShapes":18}
+{"kind":"textbox","id":"sh/rupsrid0","slide":18,"text":"沖繩 2026 家族自駕行程","textPreview":"沖繩 2026 家族自駕行程","textChars":14,"textLines":1,"bbox":[48,30,520,28]}
+{"kind":"textbox","id":"sh/cvy90nel","slide":18,"text":"資訊與圖片來源","textPreview":"資訊與圖片來源","textChars":7,"textLines":1,"bbox":[48,70,940,54]}
+{"kind":"shape","id":"sh/dw7at8v6","slide":18,"bbox":[48,136,1184,0]}
+{"kind":"textbox","id":"sh/exgr2dwr","slide":18,"text":"營業與交通資訊","textPreview":"營業與交通資訊","textChars":7,"textLines":1,"bbox":[72,164,280,28]}
+{"kind":"textbox","id":"sh/zy9svidc","slide":18,"text":"• 美麗海水族館官方 Hours / Closed：https://churaumi.okinawa/en/guide/hour/","textPreview":"• 美麗海水族館官方 Hours / Closed：https://churaumi.okinawa/en/guide/hour/","textChars":65,"textLines":1,"bbox":[72,208,1080,33]}
+{"kind":"textbox","id":"sh/0ji94nex","slide":18,"text":"• DMM Kariyushi Aquarium 官方 Opening Hours：https://en.kariyushi-aquarium.com/opening-hours/","textPreview":"• DMM Kariyushi Aquarium 官方 Opening Hours：https://en.kariyushi-aquarium.com/opening-hours/","textChars":90,"textLines":1,"bbox":[72,237,1080,33]}
+{"kind":"textbox","id":"sh/1kraxsvi","slide":18,"text":"• 第一牧志公設市場資訊：https://enjoyokinawa.cerulean-blue.co.jp/en/tourism/81","textPreview":"• 第一牧志公設市場資訊：https://enjoyokinawa.cerulean-blue.co.jp/en/tourism/81","textChars":67,"textLines":1,"bbox":[72,266,1080,33]}
+{"kind":"textbox","id":"sh/ml0r6xwn","slide":18,"text":"• Costco 沖繩南城倉庫店：https://www.costco.co.jp/store-finder/Okinawa%20Nanjo","textPreview":"• Costco 沖繩南城倉庫店：https://www.costco.co.jp/store-finder/Okinawa%20Nanjo","textChars":70,"textLines":1,"bbox":[72,295,1080,33]}
+{"kind":"textbox","id":"sh/nm9sz2d8","slide":18,"text":"• AEON Mall Okinawa Rycom 官方營業時間：https://okinawarycom-aeonmall.com/static/detail/serviceguide","textPreview":"• AEON Mall Okinawa Rycom 官方營業時間：https://okinawarycom-aeonmall.com/static/detail/serviceguide","textChars":93,"textLines":1,"bbox":[72,324,1080,33]}
+{"kind":"textbox","id":"sh/zixgn2lo","slide":18,"text":"• 美國村官方交通資訊：https://www.okinawa-americanvillage.com/en/","textPreview":"• 美國村官方交通資訊：https://www.okinawa-americanvillage.com/en/","textChars":55,"textLines":1,"bbox":[72,353,1080,33]}
+{"kind":"textbox","id":"sh/ehozuxk3","slide":18,"text":"實景圖片","textPreview":"實景圖片","textChars":4,"textLines":1,"bbox":[72,420,280,28]}
+{"kind":"textbox","id":"sh/14zypc3e","slide":18,"text":"• 美麗海：Jordy Meow, CC BY-SA 3.0, Wikimedia Commons","textPreview":"• 美麗海：Jordy Meow, CC BY-SA 3.0, Wikimedia Commons","textChars":49,"textLines":1,"bbox":[72,464,1080,32]}
+{"kind":"textbox","id":"sh/036hw72t","slide":18,"text":"• 古宇利大橋：CEphoto, Uwe Aranas, CC BY-SA 3.0, Wikimedia Commons","textPreview":"• 古宇利大橋：CEphoto, Uwe Aranas, CC BY-SA 3.0, Wikimedia Commons","textChars":60,"textLines":1,"bbox":[72,492,1080,32]}
+{"kind":"textbox","id":"sh/rexgj2lc","slide":18,"text":"• 國際通：TurnOnTheNight, CC BY-SA 4.0, Wikimedia Commons","textPreview":"• 國際通：TurnOnTheNight, CC BY-SA 4.0, Wikimedia Commons","textChars":53,"textLines":1,"bbox":[72,520,1080,32]}
+{"kind":"textbox","id":"sh/qdofqx4r","slide":18,"text":"• 牧志市場：KQuhen, CC BY-SA 4.0, Wikimedia Commons","textPreview":"• 牧志市場：KQuhen, CC BY-SA 4.0, Wikimedia Commons","textChars":46,"textLines":1,"bbox":[72,548,1080,32]}
+{"kind":"textbox","id":"sh/dgfylc3i","slide":18,"text":"• 美國村：Suikotei, CC BY-SA 4.0, Wikimedia Commons","textPreview":"• 美國村：Suikotei, CC BY-SA 4.0, Wikimedia Commons","textChars":47,"textLines":1,"bbox":[72,576,1080,32]}
+{"kind":"textbox","id":"sh/cf6xs72x","slide":18,"text":"• 瀨長島：Kugel, CC BY-SA 4.0, Wikimedia Commons","textPreview":"• 瀨長島：Kugel, CC BY-SA 4.0, Wikimedia Commons","textChars":44,"textLines":1,"bbox":[72,604,1080,32]}
+{"kind":"textbox","id":"sh/bahgvmlw","slide":18,"text":"請於出發前一天再次確認餐廳訂位、租車兒童座椅、各設施臨時營業變更與天氣警報。","textPreview":"請於出發前一天再次確認餐廳訂位、租車兒童座椅、各設施臨時營業變更與天氣警報。","textChars":38,"textLines":1,"bbox":[72,640,1040,30]}
+{"kind":"textbox","id":"sh/a98zmhkb","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1192,668,40,20]}
+{"kind":"notes","id":"nt/8ag441","slide":18,"text":""}
