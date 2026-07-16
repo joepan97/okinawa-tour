@@ -26,9 +26,11 @@
     --d2: #1B7285; --d2-tint: #DCEEF1;
     --d3: #3B7A50; --d3-tint: #DEEBE1;
     --d4: #565F6C; --d4-tint: #E4E6E9;
+    --declare: #A8721E; --declare-tint: #F4E7CC; --declare-ink: #FFFFFF;
 
     --rule-ink: #FFFFFF;
     --shadow: 0 1px 2px rgba(20,30,26,0.06), 0 6px 16px -8px rgba(20,30,26,0.18);
+    --overlay: rgba(15,20,18,0.55);
   }
 
   @media (prefers-color-scheme: dark) {
@@ -45,7 +47,9 @@
       --d2: #4FBCD0; --d2-tint: #142826;
       --d3: #74C98F; --d3-tint: #16261B;
       --d4: #A9B3BE; --d4-tint: #1E2226;
+      --declare: #E3B152; --declare-tint: #2E2510; --declare-ink: #1C1608;
       --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 20px -8px rgba(0,0,0,0.5);
+      --overlay: rgba(0,0,0,0.65);
     }
   }
   :root[data-theme="dark"] {
@@ -55,7 +59,9 @@
     --d2: #4FBCD0; --d2-tint: #142826;
     --d3: #74C98F; --d3-tint: #16261B;
     --d4: #A9B3BE; --d4-tint: #1E2226;
+    --declare: #E3B152; --declare-tint: #2E2510; --declare-ink: #1C1608;
     --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 20px -8px rgba(0,0,0,0.5);
+    --overlay: rgba(0,0,0,0.65);
   }
   :root[data-theme="light"] {
     --bg: #EEF1EF; --surface: #FFFFFF; --surface-sunk: #E5E9E6; --line: #D7DCD8;
@@ -64,7 +70,9 @@
     --d2: #1B7285; --d2-tint: #DCEEF1;
     --d3: #3B7A50; --d3-tint: #DEEBE1;
     --d4: #565F6C; --d4-tint: #E4E6E9;
+    --declare: #A8721E; --declare-tint: #F4E7CC; --declare-ink: #FFFFFF;
     --shadow: 0 1px 2px rgba(20,30,26,0.06), 0 6px 16px -8px rgba(20,30,26,0.18);
+    --overlay: rgba(15,20,18,0.55);
   }
 
   * { box-sizing: border-box; }
@@ -84,8 +92,29 @@
 
   /* ---------- Top masthead ---------- */
   .masthead {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
     padding: 22px 20px 14px;
   }
+  .masthead .titleblock { min-width: 0; }
+  .declare-btn {
+    flex: 0 0 auto;
+    appearance: none;
+    border: 1px solid color-mix(in srgb, var(--declare) 55%, transparent);
+    border-radius: 999px;
+    padding: 8px 14px;
+    margin-top: 2px;
+    font-family: 'BebasSign', sans-serif;
+    letter-spacing: 0.04em;
+    font-size: 14px;
+    color: var(--declare);
+    background: var(--declare-tint);
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+  }
+  .declare-btn:active { transform: translateY(1px); }
   .masthead .eyebrow {
     font-family: 'BebasSign', sans-serif;
     letter-spacing: 0.14em;
@@ -286,6 +315,134 @@
   }
   .toast.show { opacity: 1; }
 
+  /* ---------- Declaration modal ---------- */
+  .declare-overlay {
+    position: fixed;
+    inset: 0;
+    background: var(--overlay);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    z-index: 30;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 200ms ease;
+  }
+  .declare-overlay.open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .declare-sheet {
+    width: 100%;
+    max-width: 480px;
+    max-height: 86vh;
+    overflow-y: auto;
+    background: var(--surface);
+    border-radius: 20px 20px 0 0;
+    padding: 22px 22px 28px;
+    box-shadow: var(--shadow);
+    transform: translateY(16px);
+    transition: transform 220ms ease;
+  }
+  .declare-overlay.open .declare-sheet { transform: translateY(0); }
+  @media (min-width: 540px) {
+    .declare-overlay { align-items: center; }
+    .declare-sheet { border-radius: 20px; }
+  }
+
+  .declare-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .declare-eyebrow {
+    font-family: 'BebasSign', sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 13px;
+    color: var(--declare);
+    text-transform: uppercase;
+  }
+  .declare-sheet h2 {
+    margin: 4px 0 2px;
+    font-size: 21px;
+    line-height: 1.3;
+    text-wrap: balance;
+  }
+  .declare-sheet .declare-sub {
+    font-size: 13px;
+    color: var(--ink-mute);
+    margin-bottom: 4px;
+  }
+  .declare-close {
+    appearance: none;
+    border: 0;
+    flex: 0 0 auto;
+    width: 32px;
+    height: 32px;
+    border-radius: 999px;
+    background: var(--surface-sunk);
+    color: var(--ink-soft);
+    font-size: 16px;
+    line-height: 1;
+  }
+
+  .declare-intro {
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--ink-soft);
+    margin: 14px 0 10px;
+  }
+  .declare-tag {
+    display: inline-block;
+    font-family: 'BebasSign', sans-serif;
+    letter-spacing: 0.06em;
+    font-size: 15px;
+    color: var(--declare);
+    margin: 6px 0 8px;
+  }
+  .declare-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .declare-list li {
+    font-size: 14.5px;
+    line-height: 1.55;
+    padding-left: 22px;
+    position: relative;
+  }
+  .declare-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    top: 0.05em;
+    color: var(--declare);
+    font-weight: 700;
+  }
+  .declare-list li b { color: var(--ink); }
+
+  .declare-closing {
+    margin-top: 18px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    text-wrap: balance;
+  }
+  .declare-penalty {
+    margin-top: 12px;
+    padding: 11px 14px;
+    border-radius: 10px;
+    background: var(--declare-tint);
+    color: color-mix(in srgb, var(--declare) 70%, var(--ink) 30%);
+    font-size: 13.5px;
+    font-weight: 700;
+    text-align: center;
+  }
+
   .caveat {
     margin-top: 14px;
     padding: 12px 14px;
@@ -344,6 +501,10 @@
     color: var(--ink-mute);
     text-align: center;
   }
+
+  @media (prefers-reduced-motion: reduce) {
+    .declare-overlay, .declare-sheet { transition: none; }
+  }
 </style>
 </head>
 <body>
@@ -351,9 +512,12 @@
 <div class="page">
 
   <div class="masthead">
-    <div class="eyebrow">Okinawa · 2026.07.17 – 07.20</div>
-    <h1>家族自駕行程卡</h1>
-    <div class="sub">16 人 · 13 大 3 小 · 3 台車　／　諾富特沖繩那霸</div>
+    <div class="titleblock">
+      <div class="eyebrow">Okinawa · 2026.07.17 – 07.20</div>
+      <h1>家族自駕行程卡</h1>
+      <div class="sub">16 人 · 13 大 3 小 · 3 台車　／　諾富特沖繩那霸</div>
+    </div>
+    <button type="button" class="declare-btn" id="declareOpenBtn">出遊宣言</button>
   </div>
 
   <nav class="daynav">
@@ -607,6 +771,38 @@
 
 <div id="toast" class="toast">已複製</div>
 
+<div class="declare-overlay" id="declareOverlay">
+  <div class="declare-sheet" role="dialog" aria-modal="true" aria-labelledby="declareTitle">
+    <div class="declare-head">
+      <div>
+        <div class="declare-eyebrow">Oath · 出遊宣言</div>
+        <h2 id="declareTitle">2026 沖繩家族自駕出遊宣言</h2>
+        <div class="declare-sub">7/17 – 7/20 · 16 人 · 3 台車</div>
+      </div>
+      <button type="button" class="declare-close" id="declareCloseBtn" aria-label="關閉">✕</button>
+    </div>
+
+    <p class="declare-intro">這趟不是巧合，是我們說好的四天三夜。為了不讓誰在沖繩曬到脫皮還要跟別人尬氣氛，我們決定先立字據。</p>
+
+    <div class="declare-tag">我在此宣示</div>
+    <ul class="declare-list">
+      <li>我會準時到集合點，不會讓其他 15 個人對著我的座位發呆。</li>
+      <li>我知道自己是哪台車、坐哪個位置，不會每天上演大風吹。</li>
+      <li>手機保持有電、LINE 群組保持在線——但那是用來喊集合，不是用來開戰的。</li>
+      <li>想上廁所、想拍照、想買名產，提早講，不要等大家要出發了才說「等我一下」。</li>
+      <li>行程留的備案是給大家喘口氣用的，不是誰在混。</li>
+      <li>塞車、下雨、小孩鬧脾氣，都算計畫內，沒有人要負責。</li>
+      <li><b>我不抱怨任何行程安排</b>——貴的、遠的、要早起的，都算我自願的。</li>
+      <li><b>我不嫌東嫌西，尊重每個國家的文化</b>（馬桶蓋很神奇，便利商店排隊要守規矩）。</li>
+      <li><b>我在外面會注意說話音量</b>，不會讓整個沖繩都聽到我們家在講什麼八卦。</li>
+      <li><b>該花錢就花，要省回家再省</b>——現在省的都是以後想不起來的錢。</li>
+    </ul>
+
+    <p class="declare-closing">三台車，一個目標——開心出門，平安回家。</p>
+    <div class="declare-penalty">如違反一次，罰款 1000 日圓，現場繳。</div>
+  </div>
+</div>
+
 <script>
   var toastEl = document.getElementById("toast");
   var toastTimer = null;
@@ -649,6 +845,28 @@
     button.addEventListener("click", function () {
       copyText(button.getAttribute("data-code"));
     });
+  });
+
+  var declareOverlay = document.getElementById("declareOverlay");
+  var declareOpenBtn = document.getElementById("declareOpenBtn");
+  var declareCloseBtn = document.getElementById("declareCloseBtn");
+
+  function openDeclare() {
+    declareOverlay.classList.add("open");
+    document.body.style.overflow = "hidden";
+  }
+  function closeDeclare() {
+    declareOverlay.classList.remove("open");
+    document.body.style.overflow = "";
+  }
+
+  declareOpenBtn.addEventListener("click", openDeclare);
+  declareCloseBtn.addEventListener("click", closeDeclare);
+  declareOverlay.addEventListener("click", function (event) {
+    if (event.target === declareOverlay) closeDeclare();
+  });
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape" && declareOverlay.classList.contains("open")) closeDeclare();
   });
 </script>
 </body>
