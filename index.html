@@ -1,3 +1,8 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>沖繩 2026 家族自駕｜隨身行程卡</title>
 <style>
   @font-face {
@@ -211,6 +216,76 @@
     line-height: 1.45;
   }
 
+  /* ---------- Map Code chips ---------- */
+  .mapcodes {
+    margin-top: 9px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .mapcode {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    flex-wrap: wrap;
+  }
+  .mapcode .mc-where {
+    font-size: 11.5px;
+    color: var(--ink-mute);
+    white-space: nowrap;
+  }
+  .mapcode code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 7px;
+    background: var(--surface-sunk);
+    color: var(--ink);
+    letter-spacing: 0.01em;
+  }
+  .mapcode button, .mapcode a.mc-go {
+    appearance: none;
+    border: 0;
+    border-radius: 7px;
+    padding: 3px 9px;
+    font-size: 11.5px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.8;
+  }
+  .d1 .mapcode button, .d1 .mapcode a.mc-go { background: var(--d1); }
+  .d2 .mapcode button, .d2 .mapcode a.mc-go { background: var(--d2); }
+  .d3 .mapcode button, .d3 .mapcode a.mc-go { background: var(--d3); }
+  .d4 .mapcode button, .d4 .mapcode a.mc-go { background: var(--d4); }
+  .mapcode.unconfirmed .mc-flag {
+    font-size: 11.5px;
+    font-weight: 700;
+    color: #A03A3A;
+    background: color-mix(in srgb, #A03A3A 14%, transparent);
+    padding: 3px 9px;
+    border-radius: 7px;
+  }
+
+  .toast {
+    position: fixed;
+    left: 50%;
+    bottom: 22px;
+    transform: translateX(-50%);
+    background: var(--ink);
+    color: var(--bg);
+    padding: 9px 16px;
+    border-radius: 999px;
+    font-size: 13.5px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 180ms ease;
+    z-index: 20;
+  }
+  .toast.show { opacity: 1; }
+
   .caveat {
     margin-top: 14px;
     padding: 12px 14px;
@@ -270,6 +345,8 @@
     text-align: center;
   }
 </style>
+</head>
+<body>
 
 <div class="page">
 
@@ -303,19 +380,44 @@
       </div>
       <div class="stop">
         <div class="time">12:30</div>
-        <div><p class="place">燒肉本舖（已訂位）</p><p class="note">時間偏緊，建議請餐廳保留到 13:00。</p></div>
+        <div>
+          <p class="place">燒肉本舖（已訂位）</p>
+          <p class="note">時間偏緊，建議請餐廳保留到 13:00。</p>
+          <div class="mapcodes">
+            <div class="mapcode unconfirmed"><span class="mc-flag">Map Code 待確認</span></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">14:30</div>
-        <div><p class="place">諾富特寄行李 / Check-in</p><p class="note">分車固定乘客，建立 LINE 集合群。</p></div>
+        <div>
+          <p class="place">諾富特寄行李 / Check-in</p>
+          <p class="note">分車固定乘客，建立 LINE 集合群。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 159 808*14</code><button type="button" data-code="33 159 808*14">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Novotel%20Okinawa%20Naha">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">16:30</div>
-        <div><p class="place">國際通＋第一牧志市場</p><p class="note">建議計程車往返，不要三台車一起開進市區。</p></div>
+        <div>
+          <p class="place">國際通＋第一牧志市場</p>
+          <p class="note">建議計程車往返，不要三台車一起開進市區。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><span class="mc-where">國際通</span><code>33 157 444*60</code><button type="button" data-code="33 157 444*60">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Kokusai%20Dori%20Naha%20Okinawa">導航</a></div>
+            <div class="mapcode"><span class="mc-where">第一牧志市場</span><code>33 157 264*07</code><button type="button" data-code="33 157 264*07">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Makishi%20Public%20Market%20Okinawa">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">18:30</div>
-        <div><p class="place">國際通晚餐 / 伴手禮</p><p class="note">第一晚不要再排瀬長島，保留體力。</p></div>
+        <div>
+          <p class="place">國際通晚餐 / 伴手禮</p>
+          <p class="note">第一晚不要再排瀬長島，保留體力。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 157 444*60</code><button type="button" data-code="33 157 444*60">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Kokusai%20Dori%20Naha%20Okinawa">導航</a></div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -332,23 +434,54 @@
     <div class="timeline">
       <div class="stop">
         <div class="time">07:00</div>
-        <div><p class="place">諾富特出發</p><p class="note">走那霸 IC；早餐前一晚先買好。</p></div>
+        <div>
+          <p class="place">諾富特出發</p>
+          <p class="note">走那霸 IC；早餐前一晚先買好。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 159 808*14</code><button type="button" data-code="33 159 808*14">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Novotel%20Okinawa%20Naha">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">09:30</div>
-        <div><p class="place">美麗海水族館</p><p class="note">先看黑潮之海，再看戶外海豚 / 海龜。</p></div>
+        <div>
+          <p class="place">美麗海水族館</p>
+          <p class="note">先看黑潮之海，再看戶外海豚 / 海龜。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>553 075 797*77</code><button type="button" data-code="553 075 797*77">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Okinawa%20Churaumi%20Aquarium">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">12:00</div>
-        <div><p class="place">海洋博公園周邊午餐</p><p class="note">以簡單、快、可分桌為原則。</p></div>
+        <div>
+          <p class="place">海洋博公園周邊午餐</p>
+          <p class="note">以簡單、快、可分桌為原則；沒有指定店家，用美麗海水族館 Map Code 導航到周邊即可。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><span class="mc-where">水族館周邊</span><code>553 075 797*77</code><button type="button" data-code="553 075 797*77">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Okinawa%20Churaumi%20Aquarium">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">13:15</div>
-        <div><p class="place">備瀬福木林道</p><p class="note">水族館旁低強度拍照點，可視體力增減。</p></div>
+        <div>
+          <p class="place">備瀬福木林道</p>
+          <p class="note">水族館旁低強度拍照點，可視體力增減。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>553 105 625*34</code><button type="button" data-code="553 105 625*34">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Bise%20Fukugi%20Tree%20Road">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">14:45</div>
-        <div><p class="place">古宇利大橋 / 古宇利島</p><p class="note">拍照＋蝦蝦飯當小吃，不當團體午餐。</p></div>
+        <div>
+          <p class="place">古宇利大橋 / 古宇利島</p>
+          <p class="note">拍照＋蝦蝦飯當小吃，不當團體午餐。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><span class="mc-where">古宇利大橋</span><code>485 631 329*31</code><button type="button" data-code="485 631 329*31">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Kouri%20Bridge%20Okinawa">導航</a></div>
+            <div class="mapcode"><span class="mc-where">蝦蝦飯</span><code>485 692 174*01</code><button type="button" data-code="485 692 174*01">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Kouri%20Shrimp%20Okinawa">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">16:30</div>
@@ -369,23 +502,54 @@
     <div class="timeline">
       <div class="stop">
         <div class="time">09:30</div>
-        <div><p class="place">Costco 沖繩南城</p><p class="note">採買點，不是觀光點；90 分鐘上限。</p></div>
+        <div>
+          <p class="place">Costco 沖繩南城</p>
+          <p class="note">採買點，不是觀光點；90 分鐘上限。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>232 559 139*82</code><button type="button" data-code="232 559 139*82">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Costco%20Okinawa%20Nanjo%20Warehouse">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">11:45</div>
-        <div><p class="place">系滿魚市場</p><p class="note">小吃午餐、海鮮採買；不要太晚到。</p></div>
+        <div>
+          <p class="place">系滿魚市場</p>
+          <p class="note">小吃午餐、海鮮採買；不要太晚到。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>232 484 107*03</code><button type="button" data-code="232 484 107*03">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Itoman%20Fish%20Center%20Okinawa">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">13:15</div>
-        <div><p class="place">DMM 水族館 或 瀬長島</p><p class="note">有小孩 / 雨天選 DMM；想拍照選瀬長島。</p></div>
+        <div>
+          <p class="place">DMM 水族館 或 瀬長島</p>
+          <p class="note">有小孩 / 雨天選 DMM；想拍照選瀬長島。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><span class="mc-where">DMM 水族館</span><code>232 543 248*64</code><button type="button" data-code="232 543 248*64">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=DMM%20Kariyushi%20Aquarium%20Okinawa">導航</a></div>
+            <div class="mapcode"><span class="mc-where">瀬長島</span><code>33 002 470*30</code><button type="button" data-code="33 002 470*30">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Senagajima%20Umikaji%20Terrace">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">15:30</div>
-        <div><p class="place">AEON Rycom 短逛</p><p class="note">若 Costco 已買很多，可直接跳過。</p></div>
+        <div>
+          <p class="place">AEON Rycom 短逛</p>
+          <p class="note">若 Costco 已買很多，可直接跳過。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 530 406*45</code><button type="button" data-code="33 530 406*45">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=AEON%20MALL%20Okinawa%20Rycom">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">17:30</div>
-        <div><p class="place">美國村晚餐與夜景</p><p class="note">這天最適合當收尾點。</p></div>
+        <div>
+          <p class="place">美國村晚餐與夜景</p>
+          <p class="note">這天最適合當收尾點。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 526 452*52</code><button type="button" data-code="33 526 452*52">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=American%20Village%20Okinawa">導航</a></div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="caveat"><b>導遊結論：</b>如果 7/19 一定要完整塞滿，請把 DMM 或 AEON 明確設為「可刪備案」，不要兩個都當必去。</div>
@@ -403,7 +567,13 @@
     <div class="timeline">
       <div class="stop">
         <div class="time">07:45</div>
-        <div><p class="place">離開飯店</p><p class="note">最晚 08:00 出門，接續加油、還車。</p></div>
+        <div>
+          <p class="place">離開飯店</p>
+          <p class="note">最晚 08:00 出門，接續加油、還車。</p>
+          <div class="mapcodes">
+            <div class="mapcode"><code>33 159 808*14</code><button type="button" data-code="33 159 808*14">複製</button><a class="mc-go" href="https://www.google.com/maps/search/?api=1&query=Novotel%20Okinawa%20Naha">導航</a></div>
+          </div>
+        </div>
       </div>
       <div class="stop">
         <div class="time">09:30</div>
@@ -422,6 +592,55 @@
     <div class="rule"><div class="tag">通訊規則</div><div class="txt">LINE 群組只放集合資訊；聊天另開群，避免重要訊息被洗掉。</div></div>
   </section>
 
-  <footer>沖繩 2026 家族自駕行程 · 出發前請再次確認餐廳訂位、租車兒童座椅、營業時間與天氣警報</footer>
+  <footer>沖繩 2026 家族自駕行程 · Map Code 請於出發前一天再與車機、Google Maps 交叉確認 · 出發前請再次確認餐廳訂位、租車兒童座椅、營業時間與天氣警報</footer>
 
 </div>
+
+<div id="toast" class="toast">已複製</div>
+
+<script>
+  var toastEl = document.getElementById("toast");
+  var toastTimer = null;
+
+  function showToast(text) {
+    toastEl.textContent = text;
+    toastEl.classList.add("show");
+    if (toastTimer) window.clearTimeout(toastTimer);
+    toastTimer = window.setTimeout(function () {
+      toastEl.classList.remove("show");
+    }, 1400);
+  }
+
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(text).then(function () {
+        showToast("已複製：" + text);
+      }).catch(function () {
+        showToast("複製失敗，請長按 Map Code");
+      });
+      return;
+    }
+    var textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.style.position = "fixed";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.focus();
+    textarea.select();
+    try {
+      document.execCommand("copy");
+      showToast("已複製：" + text);
+    } catch (err) {
+      showToast("複製失敗，請長按 Map Code");
+    }
+    textarea.remove();
+  }
+
+  document.querySelectorAll(".mapcode button[data-code]").forEach(function (button) {
+    button.addEventListener("click", function () {
+      copyText(button.getAttribute("data-code"));
+    });
+  });
+</script>
+</body>
+</html>
